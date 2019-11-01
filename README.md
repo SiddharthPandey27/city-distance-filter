@@ -15,7 +15,7 @@ City Distance Filter can be used to pick a center city and find all the cities l
 1. Someone starting with React JS and want to make a map application.
 2. Someone who want to use Latitude and Longitude in their map application and to find the distance between 2 places.
 3. People who have worked on Leaflet in other frameworks or libraries and want to get a taste of React-Leaflet can start with this.
-4. Someone who wants to make a full fledged app regarding city and wants to give filtering and other features can start over here.
+4. Someone who wants to make a full fledged app regarding cities in a country to travel or explore and wants to give filtering and other features can start over here.
 5. Anybody trying their hands on some React JS and some map application.
 6. Hope it helps. May the force with you!
 
